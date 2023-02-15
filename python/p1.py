@@ -11,5 +11,4 @@ print(c,type(c))
 print(d,type(d))
 print(e,type(e))
 
-#hmfdphnfdophnfdophfdohofdampo
-#fffdhfdahfdhf
+
