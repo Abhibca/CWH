@@ -1,7 +1,12 @@
-print("Hello World",7)
+print("Hello World")
+a=12354
+b="hello abhi bhai"
+c="It is just for my new programming learning course with harry bhai"
+d=True
+e=None
 
-var1=int(input("Enter 1 number  "))
-var2=int(input("Enter 2 number  "))
-
-print("Your sum is",var1+var2,end="")
-
+print(a,type(a))
+print(b,type(b))
+print(c,type(c))
+print(d,type(d))
+print(e,type(e))
